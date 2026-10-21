@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Elementos de la solución/" />
+  <Project Path="CapaEntidadesSF/CapaEntidadesSF.csproj" />
+  <Project Path="CapaLogicaNegocioSF/CapaLogicaNegocioSF.csproj" />
+  <Project Path="CapaPresentacionPedidoSF/CapaPresentacionPedidoSF.csproj" />
+</Solution>
